@@ -18,4 +18,4 @@ a live version of the application is available at https://picayune-paste.glitch.
 5. User Story: I can paginate through the responses by adding a ?offset=2 parameter to the URL.
 6. User Story: I can get a list of the most recently submitted search strings.
 7. Once you've finished implementing these user stories, click the "I've completed this challenge" button and enter the URLs for both your GitHub repository and your live app running on Glitch.
-8.     You can get feedback on your project by sharing it with your friends on Facebook.
+8. You can get feedback on your project by sharing it with your friends on Facebook.
