@@ -1,4 +1,4 @@
-# Nodejs/Express Request Header Parser Microservice
+# Nodejs/Express Image Search Abstraction Layer
 
 ### Installation
 To run the project, simply clone the package and run the commands bellow in the root folder of the cloned project. The application will then be started and can be accessed via the localhost:3000 or 127.0.0.1:3000 route inside your browser.
